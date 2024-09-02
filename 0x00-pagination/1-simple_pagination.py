@@ -1,7 +1,7 @@
-#!/usr/bin/env/python3
+#!/usr/bin/env python3
+"""Task 1: Simple pagination.
 """
-Simple pagination task
-"""
+
 import csv
 import math
 from typing import List, Tuple
